@@ -1,0 +1,14 @@
+---
+title: "HelloWorld"
+author: "jency"
+date: "12/17/2019"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is an R Markdown document
+The Markdoun is used for creating a document that consists of both text and code.The important feature is its reproducability.It works well with version control system.
+
